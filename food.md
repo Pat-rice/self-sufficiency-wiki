@@ -1,5 +1,0 @@
-# Food
-
-## Permaculture
-
-## Soil
