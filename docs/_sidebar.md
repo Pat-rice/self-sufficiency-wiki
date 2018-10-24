@@ -1,5 +1,3 @@
-<!-- docs/_sidebar.md -->
-
 * Getting started
 
 	* [Welcome](/)
@@ -11,7 +9,7 @@
 	* [Energy](energy.md)
 	* [Environment](environment.md)
 	* [Health](health.md)
-	* [Housing](housing/housing.md)
+	* [Housing](housing.md)
 	* [Transports](transports.md)
 	* [Food](food.md)
 	* [Construction](construction.md)
