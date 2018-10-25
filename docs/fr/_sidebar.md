@@ -2,8 +2,8 @@
 
 * Pour démarrer
 
-	* [Bienvenue](/)
-	* [Comment contribuer ?](/contribute)
+	* [Bienvenue](fr/)
+	* [Comment contribuer ?](fr/contribute)
 
 * Catégories
 
