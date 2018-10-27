@@ -10,7 +10,7 @@ Elles sont très fréquentes. L’eau séjourne dans une série de filtres a
 bassins à macrophytes, et une forêt humide, dont l’activité des bactéries
 présentes dans la rhizosphère favorise la dépollution.
 
-![phytoépuration schéma](images/phyto_epuration.png)
+![phytoépuration schéma](assets/images/phyto_epuration.png)
 
 - (1) Aérobie, dégradation de la matière organique, élimination de la pollution azotée et phosphorée. Peut être alimenté par les eaux usées brutes.
 - (2) Milieu anoxique, saturé en eau. Traitement des polluants restants, fin de l’épuration des composés azotés.

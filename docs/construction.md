@@ -1,7 +1,7 @@
 # Construction
 
 ## Wind catcher
-![Wind Catcher 1](/images/wind_catcher.jpg)
+![Wind Catcher 1](assets/images/wind_catcher.jpg)
 
 A Wind tower is used to convey the wind current to
 interior spaces of buildings in order to provide living
